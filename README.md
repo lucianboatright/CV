@@ -50,19 +50,17 @@ Two of my favorite words. Research is a skill and passion I have developed from 
 
 | Project Name  | Language      | Link  |
 | ------------- |:-------------:| -----:|
-| The Vishual Project | Node.js with React.js| [project link](https://github.com/lucianboatright/Vishualizer-Front-End) |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| The Vishual Project | Node.js with React.js| [Project link](https://github.com/lucianboatright/Vishualizer-Front-End) |
+| AceBook - 404 | SQL - Sinatra - Ruby |   [Project link](https://github.com/lucianboatright/SpaceBnb) |
+| Java-script Thermostat | Java-script- API calls |    [Project link](https://github.com/lucianboatright/Thermostat_java) |
 
 ## Personal projects 
 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+| Project Name  | Language      | Link  |
+| ------------- |:-------------:| -----:|
+| Running stats Calculator | Python | [Project link](https://github.com/lucianboatright/Python_Running_app) |
+| Password Generator | Ruby |   [Project link](https://github.com/lucianboatright/Pasword_generator) |
 
 
 ***
