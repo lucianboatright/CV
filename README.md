@@ -40,13 +40,17 @@ Two of my favorite words. Research is a skill and passion I have developed from 
 
 ***
 
-#### This Skill
+## Projects 
 
-- Experience
-- Achievements
-- Evidence
+| Project Name  | Language      | Link  |
+| ------------- |:-------------:| -----:|
+| The Vishual Project | Node.js with React.js| [project link](https://github.com/lucianboatright/Vishualizer-Front-End) |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
-#### Another Skill
+
+## Personal projects 
+
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
