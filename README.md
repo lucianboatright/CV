@@ -3,9 +3,13 @@
 [SKILLS](#Skills) | [EDUCATION](#Education) | 
 
 
-I have moved into the tech world with a passion and history of problem solving and creation. I have gained my experience from a wide range of platforms from Material science, Product and Furniture design to electric bike mechanics. This has expanded my capabilities while fostering my insatiable curiosity to learn new ideas and grow.
+I have moved into the tech world with a passion and history of problem solving and creation. I have gained my experience from a wide range of
+platforms from Material science, Product and Furniture design to electric bike mechanics. This has expanded my capabilities while fostering
+my insatiable curiosity to learn new ideas and grow.
 
-Since Febuary 2019 I have been working with Programing languages, I started with Python and created two programs, a Running and a Cycling version that mapped interesting states. From December 2019 I have been with Makers and have recently graduated. This had been a great experience and also taught me a lot about pair programing excited me as there is a lot to feed my curiosity 
+Since Febuary 2019 I have been working with Programing languages, I started with Python and created two programs, a Running and a Cycling
+version that mapped interesting states. From December 2019 I have been with Makers and have recently graduated. This had been a great
+experience and also taught me a lot about pair programing excited me as there is a lot to feed my curiosity
 
 
 
@@ -27,7 +31,9 @@ From years of experience solving problems and working with teams and customers I
 Due to many industry jobs I have also learned to work well in teams and leadig teams. This was refined at Univercity Design course and throughout my workig carrea. I am good at aporaching to problems from multiple angles and seeing things in many different ways which has both been very usefull in programing and very intersting as there are some many different wasys to compleat teh same task in codeing. -->
 
 Planning and Organising
-Through out makers and the past year I have developed many techniques for mapping out growth that has both happened and will happen. This had been through planing out weeks, months and longer. I allow for flexibility as plans do change but I prefer to have a plan than not. This is followed by the daily reflections that review work done and ways to improve efficiency and enjoyment. 
+Through out makers and the past year I have developed many techniques for mapping out growth that has both happened and will happen. This had
+been through planing out weeks, months and longer. I allow for flexibility as plans do change but I prefer to have a plan than not. This is
+followed by the daily reflections that review work done and ways to improve efficiency and enjoyment. 
 
 Team Building and Passion
 At makers I had the opportunity to show my love for teams and working with people by organizing and facilitating a Team Building Workshop. This was based on the Marsh-mellow Tower Challenge and progressed into the Bridge Building project. Although I have the ability to facilitate groups I also enjoy listening to people, the saying two head are better than one and more the merrier open me up to other peoples ideas, stories and passions. 
@@ -47,7 +53,6 @@ Two of my favorite words. Research is a skill and passion I have developed from 
 | The Vishual Project | Node.js with React.js| [project link](https://github.com/lucianboatright/Vishualizer-Front-End) |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
-
 
 ## Personal projects 
 
