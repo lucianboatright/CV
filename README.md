@@ -16,6 +16,7 @@ As both a creator and a team worker programing has shown itself to be a profsion
  I am a keen problem solver with experience in a wide range of areas from Mechanics to materials. I am a very active person with passion and exctiment for what I do.  
 
  My interestes in programing have ranged from scraping information and data collection to data calculation and collection for Garmin sports devices.  -->
+ ***
 
 ## Skills
 
@@ -37,6 +38,8 @@ Two of my favorite words. Research is a skill and passion I have developed from 
 
  From the mixed background and insatiable curiosity I have a great ability to generate ideas and
 
+***
+
 #### This Skill
 
 - Experience
@@ -53,6 +56,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 
+***
 
 ## EDUCATION
 
@@ -89,6 +93,7 @@ Language agnosticism
 - UCL Practical Electronics (2010)
 - Bedales school 
 
+***
 
 ## Experience
 Cycle Republic (2017)
@@ -113,6 +118,8 @@ Paul Smith Furniture and Curiosities Department Mayfair (2013-2015)
 - Organised display and presentation of Front of House at Albamarl Street (Flag Ship Store).
 - Worked with restorers and Paul Smith himself. 
 - Organised shipment and deliveries. 
+
+***
 
 ## Interests
 
