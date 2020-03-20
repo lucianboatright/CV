@@ -1,6 +1,6 @@
 ## Lucian Boatright-Roberts
 
-[SKILLS](#Skills) | [EDUCATION](#Education) | 
+[SKILLS](#Skills) | [PROJECT](#Project) | [EDUCATION](#Education) | [EXPERIENCE](#Experience) |[INTERESTS](#Interests)
 
 
 I have moved into the tech world with a passion and history of problem solving and creation. I have gained my experience from a wide range of
@@ -10,6 +10,8 @@ my insatiable curiosity to learn new ideas and grow.
 Since Febuary 2019 I have been working with Programing languages, I started with Python and created two programs, a Running and a Cycling
 version that mapped interesting states. From December 2019 I have been with Makers and have recently graduated. This had been a great
 experience and also taught me a lot about pair programing excited me as there is a lot to feed my curiosity
+
+
 
 
 
@@ -29,6 +31,8 @@ As both a creator and a team worker programing has shown itself to be a profsion
 
 From years of experience solving problems and working with teams and customers I have a high level of comunicative skills. 
 Due to many industry jobs I have also learned to work well in teams and leadig teams. This was refined at Univercity Design course and throughout my workig carrea. I am good at aporaching to problems from multiple angles and seeing things in many different ways which has both been very usefull in programing and very intersting as there are some many different wasys to compleat teh same task in codeing. -->
+Artistic and Asthetic background 
+As both a designer and trained artist I have a foot in two doors. I understand portion, scale and colours from passion and foundation in Art. This is mirrored with a love of R&D, planning and construction. This perfectly matches much of what is required in front end design. With an empathy for users but an ability to create potential is a powerful mix.
 
 Planning and Organising
 Through out makers and the past year I have developed many techniques for mapping out growth that has both happened and will happen. This had
@@ -96,13 +100,13 @@ Language agnosticism
 	- Chosen Class Representative (3 years)
 	- 2.1 B.A. Honors
 - Cytech Level 1+2+3 mechanic (highest possible qualification - 2017-2018)
-- Surrey University Diploma in Composites , Ceramic and Natural Materials. (2012-2013)
+- Surrey University Diploma in Composites, Ceramic and Natural Materials. (2012-2013)
 - UCL Practical Electronics (2010)
 - Bedales school 
 
 ***
 
-## Experience
+## EXPERIENCE
 Cycle Republic (2017)
 - Asistant Mechanic
 - Short Term before being headhunted for VanMoof
@@ -128,7 +132,7 @@ Paul Smith Furniture and Curiosities Department Mayfair (2013-2015)
 
 ***
 
-## Interests
+## INTERESTS
 
 Sports and Activities
 - Avid runner, building to help friends complete ultra marathons
@@ -144,6 +148,5 @@ Sports watch customization with Garmin
 Securities Exploration
 - Test and play with Red Team tools for pen testing
 	- Experimentation with certain Hard Wear tools
-
 
 
