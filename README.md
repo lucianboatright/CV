@@ -14,6 +14,13 @@ experience and also taught me a lot about pair programing excited me as there is
  ***
 
 ## Skills
+Language Agnostic 
+I have experience in the listed languages but have the ability to pick up new languages quickly from a refined process of reflective learning.
+Programing Languages 
+Ruby - Ruby-Rails - Python - Java-script - Node.js - React.js - Jquery - CSS - HTML - 
+Test Languages 
+Rspec - Capybara - Jest - Cypress - able to build personal test bed for Java-script - 
+
 
 Artistic and Aesthetic background 
 As both a designer and trained artist I have a foot in two doors. I understand portion, scale and colours from passion and foundation in Art. This is mirrored with a love of R&D, planning and construction. This perfectly matches much of what is required in front end design. With an empathy for users but an ability to create potential is a powerful mix.
@@ -119,19 +126,19 @@ Securities Exploration
 
 ## Projects 
 
-| Project Name  | Language      | Link  |
-| ------------- |:-------------:| -----:|
-| The Vishual Project | Node.js with React.js| [Project link](https://github.com/lucianboatright/Vishualizer-Front-End) |
-| AceBook - 404 | SQL - Sinatra - Ruby |   [Project link](https://github.com/lucianboatright/SpaceBnb) |
-| Java-script Thermostat | Java-script- API calls |    [Project link](https://github.com/lucianboatright/Thermostat_java) |
+| Project Name  | Language  | Tests | Link |
+| ------------- |:-------------:| ------ | -----:|
+| The Vishual Project | Node.js with React.js| Cypress and Jest | [Project link](https://github.com/lucianboatright/Vishualizer-Front-End) |
+| AceBook - 404 | SQL - Sinatra - Ruby | Rspec and Capybara | [Project link](https://github.com/lucianboatright/SpaceBnb) |
+| Java-script Thermostat | Java-script- API calls | Jest |    [Project link](https://github.com/lucianboatright/Thermostat_java) |
 
-## Personal projects 
+## Spare time projects 
 
 
-| Project Name  | Language      | Link  |
-| ------------- |:-------------:| -----:|
-| Running stats Calculator | Python | [Project link](https://github.com/lucianboatright/Python_Running_app) |
-| Password Generator | Ruby |   [Project link](https://github.com/lucianboatright/Pasword_generator) |
-
+| Project Name  | Language  | Tests | Link |
+| ------------- |:-------------:| ------ | -----:|
+| Running stats Calculator | Python |  | [Project link](https://github.com/lucianboatright/Python_Running_app) |
+| Password Generator | Ruby | Rspec | [Project link](https://github.com/lucianboatright/Pasword_generator) |
+| Cycling speed Calculator | In construction | 
 
 
