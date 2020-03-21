@@ -3,69 +3,32 @@
 [SKILLS](#Skills) | [PROJECT](#Project) | [EDUCATION](#Education) | [EXPERIENCE](#Experience) |[INTERESTS](#Interests)
 
 
-I have moved into the tech world with a passion and history of problem solving and creation. I have gained my experience from a wide range of
-platforms from Material science, Product and Furniture design to electric bike mechanics. This has expanded my capabilities while fostering
-my insatiable curiosity to learn new ideas and grow.
+I have moved into the tech world with a passion and history of problem solving and creation. I have gained my experience from a wide range of platforms from Material science, Product and Furniture design to electric bike mechanics. This has expanded my capabilities while fostering an insatiable curiosity to learn new ideas and grow.
+
+I have been programing for over a year with experience in several languages, frameworks and testing listed below. This has been combined with my ability to interact with teams and individuals as shown in my positions in previous jobs. Makers had added to this by giving me experience in coding best practices and experience in Agile and XP adding to my previous team skills.
 
 Since Febuary 2019 I have been working with Programing languages, I started with Python and created two programs, a Running and a Cycling
 version that mapped interesting states. From December 2019 I have been with Makers and have recently graduated. This had been a great
 experience and also taught me a lot about pair programing excited me as there is a lot to feed my curiosity
 
-
-
-
-
-
-<!--  like Computer Added Desgin, Mechanics on bikes both electric and human powered, artist creation and passion for asthetics and presision. Since January 2019 I have been learning Programing languages and the power of programing in the modern world with all its multitude of aplications.
-As both a creator and a team worker programing has shown itself to be a profsion...
-
- I am a keen problem solver with experience in a wide range of areas from Mechanics to materials. I am a very active person with passion and exctiment for what I do.  
-
- My interestes in programing have ranged from scraping information and data collection to data calculation and collection for Garmin sports devices.  -->
  ***
 
 ## Skills
 
-<!-- Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-
-From years of experience solving problems and working with teams and customers I have a high level of comunicative skills. 
-Due to many industry jobs I have also learned to work well in teams and leadig teams. This was refined at Univercity Design course and throughout my workig carrea. I am good at aporaching to problems from multiple angles and seeing things in many different ways which has both been very usefull in programing and very intersting as there are some many different wasys to compleat teh same task in codeing. -->
-Artistic and Asthetic background 
+Artistic and Aesthetic background 
 As both a designer and trained artist I have a foot in two doors. I understand portion, scale and colours from passion and foundation in Art. This is mirrored with a love of R&D, planning and construction. This perfectly matches much of what is required in front end design. With an empathy for users but an ability to create potential is a powerful mix.
 
 Planning and Organising
-Through out makers and the past year I have developed many techniques for mapping out growth that has both happened and will happen. This had
-been through planing out weeks, months and longer. I allow for flexibility as plans do change but I prefer to have a plan than not. This is
-followed by the daily reflections that review work done and ways to improve efficiency and enjoyment. 
+Through out makers and the past year I have developed many techniques for mapping out growth that has both happened and will happen. This had been through planing out weeks, months and longer. I allow for flexibility as plans do change but I prefer to have a plan than not. This is followed by the daily reflections that review work done and ways to improve efficiency and enjoyment. 
 
 Team Building and Passion
 At makers I had the opportunity to show my love for teams and working with people by organizing and facilitating a Team Building Workshop. This was based on the Marsh-mellow Tower Challenge and progressed into the Bridge Building project. Although I have the ability to facilitate groups I also enjoy listening to people, the saying two head are better than one and more the merrier open me up to other peoples ideas, stories and passions. 
 
 
 Research and Development
-Two of my favorite words. Research is a skill and passion I have developed from an insatiable curiosity and an inspiration driven love. Development is the fun part where the hard work from research starts to form itself and grow.
+Research is a skill and passion I have developed from an insatiable curiosity and an inspiration driven love, it allows me to grow and expand my knowledge in to new unknown areas. Development is the fun part where the hard work from research starts to form itself and grow in to a product, though this can be a painful time it is also the most rewarding as planing is key and the ability to take on opinions and re-approach ideas is very important for growth and the products integrity. 
 
  From the mixed background and insatiable curiosity I have a great ability to generate ideas and
-
-***
-
-## Projects 
-
-| Project Name  | Language      | Link  |
-| ------------- |:-------------:| -----:|
-| The Vishual Project | Node.js with React.js| [Project link](https://github.com/lucianboatright/Vishualizer-Front-End) |
-| AceBook - 404 | SQL - Sinatra - Ruby |   [Project link](https://github.com/lucianboatright/SpaceBnb) |
-| Java-script Thermostat | Java-script- API calls |    [Project link](https://github.com/lucianboatright/Thermostat_java) |
-
-## Personal projects 
-
-
-| Project Name  | Language      | Link  |
-| ------------- |:-------------:| -----:|
-| Running stats Calculator | Python | [Project link](https://github.com/lucianboatright/Python_Running_app) |
-| Password Generator | Ruby |   [Project link](https://github.com/lucianboatright/Pasword_generator) |
-
 
 ***
 
@@ -84,17 +47,6 @@ Language agnosticism
 - Sinatra MVC.
 - OOP, TDD, MVC, DDD
 
-#### Self-Guided Learning 
-- Python - Self taught and Udemy courses
-	- Created several programs for sports (running & cycling stats)
-	- Beautiful soup experience
-	- Used API's including strava and Accu Weather
-- Garmin SDK for Custome Watch Faces and Data Fields
-	- Monkey-c and HTML
-- Some undisclosed securities exploration 
-
-#### Your University / College (start_date to end_date)
-
 - London Metropolitan University (2007-2009)
 	- Product and Furniture Design
 	- Chosen Class Representative (3 years)
@@ -103,6 +55,19 @@ Language agnosticism
 - Surrey University Diploma in Composites, Ceramic and Natural Materials. (2012-2013)
 - UCL Practical Electronics (2010)
 - Bedales school 
+<!-- 
+#### Self-Guided Learning 
+- Python - Self taught and Udemy courses
+	- Created several programs for sports (running & cycling stats)
+	- Beautiful soup experience
+	- Used API's including strava and Accu Weather
+- Garmin SDK for Custome Watch Faces and Data Fields
+	- Monkey-c and HTML
+- Some undisclosed securities exploration 
+ -->
+
+
+
 
 ***
 
@@ -148,5 +113,25 @@ Sports watch customization with Garmin
 Securities Exploration
 - Test and play with Red Team tools for pen testing
 	- Experimentation with certain Hard Wear tools
+
+
+***
+
+## Projects 
+
+| Project Name  | Language      | Link  |
+| ------------- |:-------------:| -----:|
+| The Vishual Project | Node.js with React.js| [Project link](https://github.com/lucianboatright/Vishualizer-Front-End) |
+| AceBook - 404 | SQL - Sinatra - Ruby |   [Project link](https://github.com/lucianboatright/SpaceBnb) |
+| Java-script Thermostat | Java-script- API calls |    [Project link](https://github.com/lucianboatright/Thermostat_java) |
+
+## Personal projects 
+
+
+| Project Name  | Language      | Link  |
+| ------------- |:-------------:| -----:|
+| Running stats Calculator | Python | [Project link](https://github.com/lucianboatright/Python_Running_app) |
+| Password Generator | Ruby |   [Project link](https://github.com/lucianboatright/Pasword_generator) |
+
 
 
