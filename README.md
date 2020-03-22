@@ -138,12 +138,6 @@ Securities Exploration
 | The Vishual Project | Node.js with React.js| Cypress and Jest | [Project link](https://github.com/lucianboatright/Vishualizer-Front-End) |
 | AceBook - 404 | SQL - Sinatra - Ruby | Rspec and Capybara | [Project link](https://github.com/lucianboatright/SpaceBnb) |
 | Java-script Thermostat | Java-script- API calls | Jest |    [Project link](https://github.com/lucianboatright/Thermostat_java) |
-
-## Spare time projects 
-
-
-| Project Name  | Language  | Tests | Link |
-| ------------- |:-------------:| ------ | -----:|
 | Running stats Calculator | Python |  | [Project link](https://github.com/lucianboatright/Python_Running_app) |
 | Password Generator | Ruby | Rspec | [Project link](https://github.com/lucianboatright/Pasword_generator) |
 | Cycling speed Calculator | In construction | 
