@@ -81,6 +81,11 @@ Udemy courses (2019)
 Makers Academy (2020)
 I recently completed the Makers Academy which gave me some great experiences mirroring that found in the industry. This was a great addition to the skills I already held and allowed me to practice team working and pair working in a technological environment. 
 
+Design experience
+You can see my previous design work at the following link: 
+[Website Link](https://lucianworld.wordpress.com/) 
+Password to unlock full visibility: letmein
+
 Cycle Republic (2017)
 - Asistant Mechanic
 - Short Term before being headhunted for VanMoof
