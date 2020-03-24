@@ -87,7 +87,7 @@ Rapha Cycle Clothing Fit specialist and Head Ride Leader (2015-2017)
 - High level customer interaction
 
 Paul Smith furniture and curiosities department Mayfair (2013-2015)
-- Paul Smith himself on displays.
+- Worked with Paul Smith himself on displays.
 - Organised display and presentation of Front of House at Albamarl Street (Flag Ship Store).
 - Worked with restorers. 
 - Organised shipments and deliveries. 
