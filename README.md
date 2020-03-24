@@ -3,7 +3,7 @@
 [SKILLS](#Skills) | [PROJECT](#Project) | [EDUCATION](#Education) | [EXPERIENCE](#Experience) | [INTERESTS](#Interests)
 
 
-I am a programmer with a passion for problem solving and a History for creating innovative solutions. I have gained my experience in a wide range of areas from material science, product and furniture design to electric bike mechanics. This has expanded my capabilities while fostering an insatiable curiosity to learn new ideas and grow.
+I am a programmer with a passion for problem solving and a History for creating innovative solutions. I have gained my experience in a wide range of areas from material science, product and furniture design to electric bike mechanics. This has expanded my capabilities while fostering an insatiable curiosity to learn new ideas and grow. 
 
 <!-- I have been programing for over a year with experience in several languages, frameworks and testing listed below. This has been combined with my ability to interact with teams and individuals as shown in my positions in previous jobs. Makers had added to this by giving me experience in coding best practices and experience in Agile and XP adding to my previous team skills.
 
@@ -16,21 +16,20 @@ experience and also taught me a lot about pair programing excited me as there is
  ***
 
 ## Skills
-##### Languages
-I have experience in the listed languages but have the ability to pick up new languages quickly from a refined process of reflective learning.
-Programing Languages 
+##### Technologies 
+I have experience in the listed languages but have the ability to pick up new languages quickly from a refined process of reflective learning. As a developer I understand many of the core tenants of good programing such as TDD, OOP and DDD and have an understanding of many principle frameworks like the MVC and OAuth2. 
+
+Programing Languages and Frameworks
 Ruby - Ruby-Rails - Python - Java-script - Node.js - React.js - Jquery - CSS - HTML 
 Test Languages 
-Rspec - Capybara - Jest - Cypress - experience building test framework for Java-script 
-
-
+Rspec - Capybara - Jest - Cypress - Sinatra - experience building test framework for Java-script 
 
 
 <!-- ##### Planning and Organising
 Throughout makers and the past year I have developed many techniques for mapping out growth that has both happened and will happen. This had been through planing out weeks, months and longer. I allow for flexibility as plans do change but I prefer to have a plan than not. This is followed by the daily reflections that review work done and ways to improve efficiency and enjoyment.  -->
 
 ##### Team Building and Passion
-I have had show my love for teams and working with people by organizing and facilitating a Team Building Workshops. This was based on the Marsh-mallow Tower Challenge and progressed into the Bridge Building project. Although I have the ability to facilitate groups I also enjoy listening to people.
+I have had show my love for teams and working with people by organizing and facilitating a team building workshops. Although I have the ability to facilitate groups I also enjoy listening to people in order to help the team grow and the project to have the best possible input from each member. This has been shown by my promotions as head ride leader at Rapha and as head mechanic at Vanmoof. Though I have also shown independence when I was running the curiosity's at Paul Smith or as an independent Designer.
 
 ##### Research and Development
 Research is a skill and passion I have developed from an insatiable curiosity and an inspiration driven love, it allows me to grow and expand my knowledge in to new unknown areas. 
@@ -43,18 +42,9 @@ As both a designer and trained artist I have a foot in both doors of artistry an
 ***
 
 ## EDUCATION
-
-Languages
-- Java-script with frameworks like Node.js and React.js along with Jquery.
-- Ruby with frameworks like Ruby-Rails and Sinatra.
-- HTML, CSS, Bootstrap.
-- Sinatra MVC.
-- OOP, TDD, MVC, DDD
-
 - London Metropolitan University (2007-2009)
 	- 2.1 B.A. Honors
 	- Product and Furniture Design
-
 - Cytech Level 1+2+3 mechanic (highest possible qualification - 2017-2018)
 - Surrey University Diploma in Composites, Ceramic and Natural Materials. (2012-2013)
 - UCL Practical Electronics (2010)
@@ -74,25 +64,20 @@ Languages
 - Some undisclosed securities exploration 
  -->
 
-
-
-
 ***
 
 ## EXPERIENCE
 Makers Academy (2020)
 I recently completed the Makers Academy which gave me some great experiences mirroring that found in the industry. This was a great addition to the skills I already held and allowed me to practice team working and pair working in a technological environment. 
 
-Cycle Republic (2017)
-- Assistant Mechanic
+Cycle Republic Assistant Mechanic (2017)
 - Short Term before being headhunted for VanMoof
 
-Vanmoof Electrical bikes (2017-2019)
-- Head Mechanic
-	- Reductive problem solving
-	- Organise Workshop cleanliness and stock
-	- Teach Assistants and staff 
-	- Managing repair time schedule  
+Vanmoof Electrical bikes Head Mechanic (2017-2019)
+- Reductive problem solving
+- Organise Workshop cleanliness and stock
+- Teach Assistants and staff 
+- Managing repair time schedule  
 
 Rapha Cycle Clothing Fit specialist and Head Ride Leader (2015-2017)
 - Organising safety and routes of weekend rides
@@ -102,20 +87,20 @@ Rapha Cycle Clothing Fit specialist and Head Ride Leader (2015-2017)
 - High level customer interaction
 
 Paul Smith furniture and curiosities department Mayfair (2013-2015)
+- Paul Smith himself on displays.
 - Organised display and presentation of Front of House at Albamarl Street (Flag Ship Store).
-- Worked with restorers and Paul Smith himself on displays. 
+- Worked with restorers. 
 - Organised shipments and deliveries. 
 
 ***
 
-## INTERESTS
-
+## INTERESTS 
 - Avid runner, building to help friends complete ultra marathons
-- Experienced cyclist - All but racing sure to risk of injury
-- Also enjoy walking camping.
-- Sailing
+- Experienced cyclist - All but racing due to risk of injury
+- Also enjoy walking and camping.
+- Sailing - some racing experience
 - Test and play with red team tools for pen testing
-- Experimentation with certain hardware tools
+- Experimentation with certain info securities hardware tools
 
 Customization with Garmin
 - Creating custom watch faces
@@ -129,13 +114,12 @@ You can see my previous design work at the following link:
 Password to unlock full visibility: letmein
 
 ## Projects 
-
 | Project Name  | Language  | Tests | Link |
 | ------------- |:-------------:| ------ | -----:|
 | The Vishual Project | Node.js with React.js| Cypress and Jest | [Project link](https://github.com/lucianboatright/Vishualizer-Front-End) |
 | AceBook - 404 | SQL - Sinatra - Ruby | Rspec and Capybara | [Project link](https://github.com/lucianboatright/SpaceBnb) |
 | Java-script Thermostat | Java-script- API calls | Jest |    [Project link](https://github.com/lucianboatright/Thermostat_java) |
-| Running stats Calculator | Python |  | [Project link](https://github.com/lucianboatright/Python_Running_app) |
+| Running stats Calculator | Python | In progress | [Project link](https://github.com/lucianboatright/Python_Running_app) |
 | Password Generator | Ruby | Rspec | [Project link](https://github.com/lucianboatright/Pasword_generator) |
 | Cycling speed Calculator | In construction | 
 
