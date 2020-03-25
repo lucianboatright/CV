@@ -29,7 +29,7 @@ Rspec - Capybara - Jest - Cypress - Sinatra - experience building test framework
 Throughout makers and the past year I have developed many techniques for mapping out growth that has both happened and will happen. This had been through planing out weeks, months and longer. I allow for flexibility as plans do change but I prefer to have a plan than not. This is followed by the daily reflections that review work done and ways to improve efficiency and enjoyment.  -->
 
 ##### Team Building and Passion
-I have had show my love for teams and working with people by organizing and facilitating a team building workshops. Although I have the ability to facilitate groups I also enjoy listening to people in order to help the team grow and the project to have good input from each member. This has been shown by my promotions as head ride leader at Rapha and as head mechanic at Vanmoof. Though I have also shown independence when I was running the curiosity's at Paul Smith or as an independent Designer. I have also worked in Agile teams that utilize XP and have experience in seeing the benefit of how a team can develop once these skills are brought into a team project.
+I have show my love for teams and working with people by organizing and facilitating a team building workshops. Although I have the ability to facilitate groups I also enjoy listening to people in order to help the team grow and the project to have good input from each member. This has been shown by my promotions as head ride leader at Rapha and as head mechanic at Vanmoof. Though I have also shown independence when I was running the curiosity's at Paul Smith or as an independent Designer. I have also worked in Agile teams that utilize XP and have experience in seeing the benefit of how a team can develop once these skills are brought into a team project.
 
 ##### Research and Development
 Research is a skill and passion I have developed from an insatiable curiosity and an inspiration driven love, it allows me to grow and expand my knowledge in to new unknown areas. 
@@ -74,21 +74,20 @@ Cycle Republic Assistant Mechanic (2017)
 - Short Term before being headhunted for VanMoof
 
 Vanmoof Electrical bikes Head Mechanic (2017-2019)
-- Reductive problem solving
-- Organise Workshop cleanliness and stock
-- Teach Assistants and staff 
-- Managing repair time schedule  
+- Reductive problem solving.
+- Organise Workshop cleanliness and stock.
+- Teach Assistants and staff.
+- Managing repair time schedule.
 
 Rapha Cycle Clothing Fit specialist and Head Ride Leader (2015-2017)
-- Organising safety and routes of weekend rides
-- Brief ride leaders and groups 
-- Custom fit specialist for clothing 
-- Material knowledge and experience 
-- High level customer interaction
+- Organising safety and routes of weekend rides.
+- Brief ride leaders and groups.
+- Custom fit specialist for clothing.
+- High level customer interaction.
 
 Paul Smith furniture and curiosities department Mayfair (2013-2015)
 - Worked with Paul Smith himself on displays.
-- Organised display and presentation of Front of House at Albamarl Street (Flag Ship Store).
+- Organised display and presentation of Front of House at Albamarl Street the Flag Ship Store.
 - Worked with restorers. 
 - Organised shipments and deliveries. 
 
