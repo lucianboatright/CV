@@ -20,9 +20,11 @@ experience and also taught me a lot about pair programing excited me as there is
 I have experience in the listed languages but have the ability to pick up new languages quickly from a refined process of reflective learning. As a developer I understand many of the core tenants of good programing such as TDD, OOP and DDD and have an understanding of many principle frameworks like the MVC and OAuth2. 
 
 Programing Languages and Frameworks
-Ruby - Ruby-Rails - Python - Java-script - Node.js - React.js - Jquery - CSS - HTML 
+Ruby - Ruby-Rails - Python - Java-script - Node.js - React.js - Native - Jquery - CSS - HTML - SQL 
 Test Languages 
 Rspec - Capybara - Jest - Cypress - Sinatra - experience building test framework for Java-script 
+Additional
+Twilio - TravisCI - Faunadb - Expo - Express
 
 
 <!-- ##### Planning and Organising
@@ -67,6 +69,9 @@ As both a designer and trained artist I have a foot in both doors of artistry an
 ***
 
 ## EXPERIENCE
+Hack For Heros Competition Winner
+First place in the Hack for Heros competition. To see the program we made please visit the link in the table at the bottom. The competition was 2.5 days long in a team of 7. We very quickly brought together a working MVP app with large scaliability. 
+
 Makers Academy (2020)
 I recently completed the Makers Academy which gave me some great experiences mirroring that found in the industry. This was a great addition to the skills I already held and allowed me to practice team working and pair working in a technological environment. 
 
@@ -115,6 +120,7 @@ Password to unlock full visibility: letmein
 ## Projects 
 | Project Name  | Language  | Tests | Link |
 | ------------- |:-------------:| ------ | -----:|
+| Compatition - Pocket Positivity| Node.js with React Native| 2.5 Day Spike | [Project link](https://github.com/lucianboatright/pocket_positivity) |
 | The Vishual Project | Node.js with React.js| Cypress and Jest | [Project link](https://github.com/lucianboatright/Vishualizer-Front-End) |
 | AceBook - 404 | SQL - Sinatra - Ruby | Rspec and Capybara | [Project link](https://github.com/lucianboatright/SpaceBnb) |
 | Java-script Thermostat | Java-script- API calls | Jest |    [Project link](https://github.com/lucianboatright/Thermostat_java) |
